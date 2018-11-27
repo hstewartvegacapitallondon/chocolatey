@@ -1,0 +1,1 @@
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/hstewartvegacapitallondon/chocolatey/master/chocoPackagesInstall.ps1'))
